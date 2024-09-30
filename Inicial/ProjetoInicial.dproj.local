@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/25 19:24:43.000.724,=D:\loren\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/25 19:26:32.000.951,D:\loren\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\loren\Documents\Embarcadero\Studio\Projects\Inicial.dfm</Transaction>
+    <Transaction>2024/09/25 19:26:32.000.951,D:\loren\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\loren\Documents\Embarcadero\Studio\Projects\Inicial.pas</Transaction>
+    <Transaction>2024/09/25 19:27:27.000.371,D:\loren\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\loren\Documents\Embarcadero\Studio\Projects\ProjetoInicial.dproj</Transaction>
+    <Transaction>2024/09/29 18:31:09.000.523,=D:\loren\Documents\Embarcadero\Studio\Projects\Cursos delphi\Curso de Delphi 10 - UDEMY\Unit1.pas</Transaction>
+    <Transaction>2024/09/29 18:34:44.422,=D:\loren\Documents\Embarcadero\Studio\Projects\Cursos delphi\Curso de Delphi 10 - UDEMY\frm_tela2.pas</Transaction>
+    <Transaction>2024/09/29 18:34:59.775,D:\loren\Documents\Embarcadero\Studio\Projects\Cursos delphi\Curso de Delphi 10 - UDEMY\Tela2.dfm=D:\loren\Documents\Embarcadero\Studio\Projects\Cursos delphi\Curso de Delphi 10 - UDEMY\frm_tela2.dfm</Transaction>
+    <Transaction>2024/09/29 18:34:59.775,D:\loren\Documents\Embarcadero\Studio\Projects\Cursos delphi\Curso de Delphi 10 - UDEMY\Tela2.pas=D:\loren\Documents\Embarcadero\Studio\Projects\Cursos delphi\Curso de Delphi 10 - UDEMY\frm_tela2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
